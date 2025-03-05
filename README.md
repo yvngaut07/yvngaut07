@@ -3,7 +3,8 @@ I'am a software developer, I work primary focus on system developement, but I lo
 choice C++, C, Python or Javascript went high level is needed also I not close minded about the languages choice I rather chose the right one for the job. 
 
 
-## 👀 I’m interested in ...
+## 👀 I’m interested in 
+System developement, I enjoy working with low level language. 
 
 
 <!---
